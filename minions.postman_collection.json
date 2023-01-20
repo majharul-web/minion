@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "84ed8b26-e04b-45e5-aedf-1bffcd7792a1",
+		"name": "minions",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19341444"
+	},
+	"item": [
+		{
+			"name": "insertMinions",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getMinions",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "deleteMinionById",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "updateMinionsById",
+			"request": {
+				"method": "PATCH",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
